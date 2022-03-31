@@ -10,7 +10,7 @@
   The code that needed to be refactored was layed out with comments describing the code that needed to be written.  Following each step, the following code was produced: (This is an image)---
   
   ### Results
-    The original code created using the classwork module had a run time of 0.37 seconds for 2017 stock data analysis and 0.40 seconds for 2018 stock data analysis. The refactored code ran faster and was easier to follow.  The run time for the 2017 stock data analysis with the refactored code was 0.289 Seconds and the run time for the 2018 stock data analysis was also 0.289 seconds.  While this does not seem like much, the refactored code allows for faster programming and improved machine performance.(This is an image) (This is an image)
+   The original code created using the classwork module had a run time of 0.37 seconds for 2017 stock data analysis and 0.40 seconds for 2018 stock data analysis. The refactored code ran faster and was easier to follow.  The run time for the 2017 stock data analysis with the refactored code was 0.289 Seconds and the run time for the 2018 stock data analysis was also 0.289 seconds.  While this does not seem like much, the refactored code allows for faster programming and improved machine performance.(This is an image) (This is an image)
     
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
